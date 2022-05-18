@@ -14,7 +14,7 @@ def sol_1_test(sol_1_dict):
         '`The total number of user-article interactions in the dataset is ______.`': 45993,
         '`The maximum number of user-article interactions by any 1 user is ______.`': 364,
         '`The most viewed article in the dataset was viewed _____ times.`': 937,
-        '`The article_id of the most viewed article is ______.`': 1429,
+        '`The article_id of the most viewed article is ______.`': '1429.0',
         '`The number of unique articles that have at least 1 rating ______.`': 714,
         '`The number of unique users in the dataset is ______`': 5148,
         '`The number of unique articles on the IBM platform`': 1051
